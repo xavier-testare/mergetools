@@ -2,22 +2,10 @@
 2. Phasellus sit amet nisi non magna sagittis scelerisque quis interdum sapien.
 3. Integer nisl libero, lobortis nec libero sit amet, ultrices luctus justo. Donec non risus tellus.
 4. Sed sit amet volutpat leo, ut sollicitudin lacus.
-<<<<<<< HEAD
 5. Aliquam eget metus lectus. Fusce eu elementum felis. conflict
 6. Aliquam risus magna, vehicula pulvinar ornare vel, tincidunt vel est. Sed venenatis quam id nulla rutrum viverra.
 7. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-7.5. Inserted line
 8. Vestibulum pharetra quis odio at porta.
 9. Aliquam eu justo at nisl consectetur tempus. Sed molestie congue erat, quis imperdiet augue convallis ac.
 10. Integer vel fermentum ligula, placerat eleifend risus.
 11. Vestibulum aliquet dui dui, ut commodo mi dignissim in.
-New line
-=======
-5. Aliquam eget metus lectus. Fusce eu elementum felis.
-6. Aliquam risus magna, vehicula pulvinar ornare vel, tincidunt vel est. Sed venenatis quam id nulla rutrum viverra.
-7. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-8. Vestibulum pharetra quis odio at porta.
-9. Aliquam eu justo at nisl consectetur tempus. Sed molestie congue erat, quis imperdiet augue convallis ac.
-10. Integer vel fermentum ligula, placerat eleifend risus.
-11. Vestibulum aliquet dui dui, ut commodo mi dignissim in.
->>>>>>> 410013ac52618014fd6d05e1dd75af8dc61ff0d1
